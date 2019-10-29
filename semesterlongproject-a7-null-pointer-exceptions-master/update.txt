@@ -1,0 +1,9 @@
+In order to update the escape distance,
+click on the JMenu "Choose Your Input", and then JMenuItem "Enter Escape Distance"
+Enter an valid value to get the desired escape distance,
+Or enter an invalid input to get an Exception.
+
+In order to update the escape time,
+click on  the JMenu "Choose Your Input" and then JMenuItem "Enter Escape Time"
+Enter an valid input, 0< time <= 255
+Or get an error message. 

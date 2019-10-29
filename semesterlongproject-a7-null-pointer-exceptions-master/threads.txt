@@ -1,0 +1,5 @@
+To change the number of threads,
+Run the application, and click at "Workers" 
+Use "Change The Number Of Threads" 
+and enter a valid number between 1 to 128
+to change the # of threads 

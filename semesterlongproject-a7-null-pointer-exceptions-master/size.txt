@@ -1,0 +1,3 @@
+To check if the program generates a 2048x2048 fractal,
+open GUI.java and check line 82
+In Fractal.java and other set classes, field _pixelX and _pixelY are all changed to 2048
